@@ -1,0 +1,6 @@
+confluent_kafka[avro]>=1.7.0
+Faker==9.8.3
+Dumper
+pytest
+certifi
+pyjwt
